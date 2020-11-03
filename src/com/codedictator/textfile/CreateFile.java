@@ -3,7 +3,7 @@ package com.codedictator.textfile;
 import java.io.File;
 import java.io.IOException;
 
-import com.codedictator.file.learning.constant.Constants;
+import com.codedictator.constant.Constants;
 
 public class CreateFile {
 	public static void main(String[] args) {

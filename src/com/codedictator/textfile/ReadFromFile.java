@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-import com.codedictator.file.learning.constant.Constants;
+import com.codedictator.constant.Constants;
 
 public class ReadFromFile {
 	public static void main(String[] args) {

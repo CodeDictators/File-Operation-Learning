@@ -2,7 +2,7 @@ package com.codedictator.textfile;
 
 import java.io.File;
 
-import com.codedictator.file.learning.constant.Constants;
+import com.codedictator.constant.Constants;
 
 public class DeleteFile {
 

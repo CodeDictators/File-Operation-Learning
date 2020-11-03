@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-import com.codedictator.file.learning.constant.Constants;
+import com.codedictator.constant.Constants;
 
 public class BufferReader {
 	public static void main(String[] args) {
