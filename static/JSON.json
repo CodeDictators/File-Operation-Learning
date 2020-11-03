@@ -1,0 +1,21 @@
+{
+	"firstName": "Kalpesh",
+	"lastName": "Mahajan",
+	"address": {
+		"streetAdd": "Pimpri",
+		"city": "Pune",
+		"state": "Maharashtra",
+		"pinCode": 456123
+	},
+	"phoneNos": [
+		{
+			"type1": "home",
+			"no": "9876543210"
+		},
+		{
+			"type2": "fax",
+			"no1": "1234567890"
+		}
+	],
+	"age": 26
+}

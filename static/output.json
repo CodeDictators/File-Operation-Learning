@@ -1,0 +1,38 @@
+[
+	{
+		"address": {
+			"country": "Bharat",
+			"city": "Pune",
+			"state": "MH",
+			"zip_code": 456123
+		},
+		"languages_known": [
+			"Java",
+			"Python",
+			"Angular"
+		],
+		"id": 1,
+		"salary": 100.1,
+		"first_name": "Kalpesh",
+		"null_val": null,
+		"is_developer": true
+	},
+	{
+		"address": {
+			"country": "Bharat",
+			"city": "Pune",
+			"state": "MH",
+			"zip_code": 456123
+		},
+		"languages_known": [
+			"Java",
+			"Python",
+			"Angular"
+		],
+		"id": 1,
+		"salary": 100.1,
+		"first_name": "Kalpesh",
+		"null_val": null,
+		"is_developer": true
+	}
+]
